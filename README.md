@@ -28,4 +28,3 @@ console.log('email verification result: '+response);
   <br>
 </p>
 </a>
-
