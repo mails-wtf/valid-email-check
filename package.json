@@ -1,0 +1,22 @@
+{
+  "description": "Verify email address by checking MX records and SMTP connection.",
+  "author": "mails.wtf <sushant@mails.wtf> (https://mails.wtf)",
+  "name": "valid-email-check",
+  "version": "0.0.1",
+  "homepage": "https://mails.wtf",
+  "keywords": [
+    "email",
+    "existence",
+    "validation",
+    "validator",
+    "verification",
+    "valid-email-check",
+    "email valid",
+    "email verification",
+    "email validity"
+  ],
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.9.0"
+  }
+}
